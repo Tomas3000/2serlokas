@@ -64,3 +64,18 @@ a {
 
     
 }
+@media (max-width:900px) {
+    img {
+        width: 100%;
+        margin: 0;
+    }
+    
+    
+    div {
+        width: 100%;
+        margin: 0;
+        
+    }
+
+    
+}
